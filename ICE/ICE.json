@@ -1,0 +1,12 @@
+{
+  "Author": "Ice, QiongHHHZZZ(汉化&适配)",
+  "Name": "宇宙探索助手",
+  "Punchline": "宇宙探索自动化与任务辅助。",
+  "Description": "宇宙探索相关制作、采集、任务路线和模式辅助。",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Gatherers"
+  ],
+  "RepoUrl": "https://github.com/OLDBAI213/Ices-Cosmic-Exploration-CN",
+  "IconUrl": "https://raw.githubusercontent.com/QiongHHHZZZ/DalamudPlugins/main/icons/ice.png"
+}
