@@ -8,8 +8,8 @@
 ## 维护原则
 
 - 分发以你的仓库为准：
-  - 源码：`guanyintu/Ices-Cosmic-Exploration-CN`
-  - 仓库清单：`https://raw.githubusercontent.com/guanyintu/Ices-Cosmic-Exploration-CN/Main-Branch/pluginmaster.json`
+  - 源码：`OLDBAI213/OLDBAI`
+  - 仓库清单：`https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json`
 - 版本号必须可比较、可追溯、可复现。
 - Codex 可以参与上游同步、冲突处理、中文文本补全、构建验证和发布流程配置；涉及功能逻辑时优先保留上游实现。
 
@@ -56,7 +56,7 @@
    - 按本文件“版本规则”生成新版本。
 2. **更新版本真源**
    - 修改 `ICE/ICE.csproj` 中 `Version`。
-   - 修改 `ICE/ICE.json` 中 `RepoUrl` 指向 `guanyintu/Ices-Cosmic-Exploration-CN`。
+   - 修改 `ICE/ICE.json` 中 `RepoUrl` 指向 `OLDBAI213/OLDBAI`。
 3. **本地构建**
    - `dotnet build ICE/ICE.csproj -c Release -v minimal`
 4. **发布源码仓库 Release**

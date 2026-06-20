@@ -4,7 +4,7 @@
 	<PropertyGroup>
 		<Version>0.0.78.7000</Version>
 		<Description>宇宙探索相关制作、采集、任务路线和模式辅助。</Description>
-		<PackageProjectUrl>https://github.com/OLDBAI213/Ices-Cosmic-Exploration-CN</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/OLDBAI213/OLDBAI</PackageProjectUrl>
 		<PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
 		<IsPackable>true</IsPackable>
 		<RootNamespace>ICE</RootNamespace>

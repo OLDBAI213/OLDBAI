@@ -9,7 +9,7 @@
 3. 添加这个地址：
 
 ```text
-https://raw.githubusercontent.com/OLDBAI213/Ices-Cosmic-Exploration-CN/Main-Branch/pluginmaster.json
+https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json
 ```
 
 4. 打开插件安装器。

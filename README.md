@@ -1,10 +1,10 @@
 # ICE 宇宙探索助手
 
-源码仓库：`https://github.com/OLDBAI213/Ices-Cosmic-Exploration-CN`
+源码仓库：`https://github.com/OLDBAI213/OLDBAI`
 
 Dalamud 自定义插件仓库地址：
 
-`https://raw.githubusercontent.com/OLDBAI213/Ices-Cosmic-Exploration-CN/Main-Branch/pluginmaster.json`
+`https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json`
 
 这是 ICE 的国服维护与中文适配分支。上游功能逻辑尽量保持原样，本分支主要负责国服环境适配、中文界面文本、发布维护和必要的构建修复。
 
@@ -48,7 +48,7 @@ Dalamud 自定义插件仓库地址：
 2. 进入实验性功能 / 第三方插件仓库。
 3. 添加仓库地址：
 
-   `https://raw.githubusercontent.com/OLDBAI213/Ices-Cosmic-Exploration-CN/Main-Branch/pluginmaster.json`
+   `https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json`
 
 4. 保存后打开插件安装器。
 5. 搜索 `宇宙探索助手` 或 `ICE`。

@@ -5,7 +5,7 @@
 仓库地址：
 
 ```text
-https://raw.githubusercontent.com/OLDBAI213/Ices-Cosmic-Exploration-CN/Main-Branch/pluginmaster.json
+https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json
 ```
 
 使用方法：

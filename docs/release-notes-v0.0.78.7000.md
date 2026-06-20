@@ -13,7 +13,7 @@
 第三方仓库地址：
 
 ```text
-https://raw.githubusercontent.com/OLDBAI213/Ices-Cosmic-Exploration-CN/Main-Branch/pluginmaster.json
+https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json
 ```
 
 Release 下载文件：
